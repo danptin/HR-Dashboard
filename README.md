@@ -33,7 +33,10 @@ The dashboard was developed to answer the following business questions:
 - Employees with Leave Balance > 20 Days: 29
 - Average Salary: $54K
 
----
+
+## 📊 Power BI Dashboard
+
+👉 View live report here: (https://app.powerbi.com/links/-bshO89_V2?ctid=9f0bbd9f-b554-44e7-930b-3df9639ae1b4&pbi_source=linkShare)
 
 # 📌 Dashboard Features
 ## Employee Analysis
